@@ -1,4 +1,4 @@
-# NVIDIA-RAPIDS-RESOURCES
+# NVIDIA RAPIDS Resources
 A collection of NVIDIA RAPIDS resources
 
 Introductory Videos:
